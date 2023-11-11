@@ -1,0 +1,136 @@
+{
+  "lstTable": [
+    {
+      "numTable": 1,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 2,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 3,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 4,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 5,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 6,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 7,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 8,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 9,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 10,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 11,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 12,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 13,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 14,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 15,
+      "montant": 0.0,
+      "endroit": "exterieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 1,
+      "montant": 0.0,
+      "endroit": "interieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 2,
+      "montant": 0.0,
+      "endroit": "interieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 3,
+      "montant": 0.0,
+      "endroit": "interieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 4,
+      "montant": 0.0,
+      "endroit": "interieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 5,
+      "montant": 0.0,
+      "endroit": "interieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 6,
+      "montant": 0.0,
+      "endroit": "interieur",
+      "lstProduits": []
+    },
+    {
+      "numTable": 7,
+      "montant": 0.0,
+      "endroit": "interieur",
+      "lstProduits": []
+    }
+  ]
+}

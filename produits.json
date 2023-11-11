@@ -1,0 +1,294 @@
+{
+  "lstProduits": [
+	{
+      "nom": "Lunch",
+      "prix": 20.0,
+      "categ": "MENU"
+    },
+    {
+      "nom": "Menu Salinas",
+      "prix": 29.0,
+      "categ": "MENU"
+    },
+    {
+      "nom": "Menu Voyage",
+      "prix": 38.0,
+      "categ": "MENU"
+    },
+    {
+      "nom": "Menu Confiance",
+      "prix": 45.0,
+      "categ": "MENU"
+    },
+    {
+      "nom": "A la carte",
+      "prix": 0.0,
+      "categ": "MENU"
+    },
+    {
+      "nom": "3 Services",
+      "prix": 11.0,
+      "categ": "SELECTION"
+    },
+    {
+      "nom": "4 Services",
+      "prix": 15.0,
+      "categ": "SELECTION"
+    },
+    {
+      "nom": "5 Services",
+      "prix": 20.0,
+      "categ": "SELECTION"
+    },
+    {
+      "nom": "Cana",
+      "prix": 1.8,
+      "categ": "BIERE"
+    },
+    {
+      "nom": "Tercio",
+      "prix": 2.4,
+      "categ": "BIERE"
+    },
+    {
+      "nom": "33cl",
+      "prix": 2.2,
+      "categ": "BIERE"
+    },
+    {
+      "nom": "Tanque",
+      "prix": 3.3,
+      "categ": "BIERE"
+    },
+    {
+      "nom": "0 Alc",
+      "prix": 2.0,
+      "categ": "BIERE"
+    },
+    {
+      "nom": "Clara",
+      "prix": 2.5,
+      "categ": "BIERE"
+    },
+    {
+      "nom": "Coca",
+      "prix": 2.3,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Coca Zero",
+      "prix": 2.3,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Sprite",
+      "prix": 2.3,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Jus",
+      "prix": 1.7,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Eau 1/2",
+      "prix": 2.5,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Eau 1L",
+      "prix": 4.0,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Fanta orange",
+      "prix": 2.3,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Fanta citron",
+      "prix": 2.3,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Nestea",
+      "prix": 2.3,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Eau pétillante",
+      "prix": 2.5,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Tonic",
+      "prix": 2.2,
+      "categ": "SOFT"
+    },
+    {
+      "nom": "Cappuccino",
+      "prix": 3.5,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Carajillo",
+      "prix": 4.0,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Cafe con leche",
+      "prix": 1.9,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Americano",
+      "prix": 1.7,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Infusion",
+      "prix": 1.7,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Latte",
+      "prix": 2.8,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Cortado",
+      "prix": 1.5,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Solo",
+      "prix": 1.4,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Bonbon",
+      "prix": 2.0,
+      "categ": "CAFE"
+    },
+    {
+      "nom": "Martini",
+      "prix": 3.5,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Porto",
+      "prix": 3.0,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Rhum coca",
+      "prix": 5.5,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Whisky coca",
+      "prix": 5.5,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Coupe de cava",
+      "prix": 6.0,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Coupe de champagne",
+      "prix": 6.0,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Spritz",
+      "prix": 6.0,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Gin tonic",
+      "prix": 6.0,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Sangria",
+      "prix": 6.0,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Vodka+Soft",
+      "prix": 4.5,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Malibu ananas",
+      "prix": 4.5,
+      "categ": "APERITIF"
+    },
+    {
+      "nom": "Rhum",
+      "prix": 5.0,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Whisky",
+      "prix": 5.0,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Cointrau",
+      "prix": 5.0,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Baileys",
+      "prix": 4.5,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Anis",
+      "prix": 3.5,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Licor 43",
+      "prix": 3.5,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Limoncello",
+      "prix": 3.5,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Licor manzana",
+      "prix": 3.0,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Licor avellana",
+      "prix": 3.0,
+      "categ": "DIGESTIF"
+    },
+    {
+      "nom": "Verre",
+      "prix": 1.0,
+      "categ": "VINS"
+    },
+    {
+      "nom": "1/2 btl",
+      "prix": 1.0,
+      "categ": "VINS"
+    },
+    {
+      "nom": "Pain",
+      "prix": 0.5,
+      "categ": "SUPPLEMENT"
+    },
+    {
+      "nom": "Varie",
+      "prix": 0.0,
+      "categ": "VARIE"
+    }
+  ]
+}
